@@ -18,7 +18,7 @@ const Wrapper = styled.div`
   margin: auto;
 `;
 
-export const Layout: React.FC = (props) => {
+export const Layout = (props: any) => {
   return (
     <LayoutContainer className='Layout'>
       <Head>
