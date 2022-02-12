@@ -19,6 +19,10 @@ To view live demo please [click here](https://masterv.herokuapp.com/).
 
 To view a video [click here]().
 
+To view documentation please [click here](https://app.clickup.com/37370407/v/dc/13meh7-24/13meh7-44).
+
+To view Trello Board please [click here](https://trello.com/b/LH3Gp1bO/mv).
+
 To view list of CI/CD workflows/pipelines [click here](https://github.com/zafar-saleem/MV/actions).
 
 To view list of all commits [click here](https://github.com/zafar-saleem/MV/commits/main).
