@@ -1,10 +1,5 @@
-interface Events {
-	dispatch: () => void;
-	listen: () => void;
-}
-
 export const EventDispatcher = () => {
-  let eventsList: Events = {};
+  let eventsList: any = {};
 
   return () => {
     const listen = (eventName: string, callback: any) => {
@@ -20,7 +15,7 @@ export const EventDispatcher = () => {
         return;
       }
 
-      eventsList[eventName].forEach((listener) => {
+      eventsList[eventName].forEach((listener: any) => {
         listener(dataObject || {});
       });
     };
