@@ -19,7 +19,7 @@ In order to run this project in the browser successfully, please follow the step
 ## Live Demo
 To view live demo please [click here](https://masterv.herokuapp.com/).
 
-To view a video [click here]().
+To view a video [click here](https://youtu.be/v4Kd4oLXHb0).
 
 To view documentation please [click here](https://app.clickup.com/37370407/v/dc/13meh7-24/13meh7-44).
 
@@ -31,7 +31,7 @@ To view list of all commits [click here](https://github.com/zafar-saleem/MV/comm
 
 To view list of all branches [click here](https://github.com/zafar-saleem/MV/branches/all).
 
-To view list of all pull requests [click here](https://github.com/zafar-saleem/MV/pulls).
+To view list of all pull requests [click here](https://github.com/zafar-saleem/MV/pulls?q=is%3Apr+is%3Aclosed).
 
 To view git branch strategy [click here](https://swimlanes.io/u/arTp8yL-v).
 
